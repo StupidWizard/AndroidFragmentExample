@@ -7,14 +7,14 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Left"
+        android:text="@string/act_bar_btn_name_left"
         android:layout_gravity="left"
         android:id="@+id/rl_menu_map" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Right"
+        android:text="@string/act_bar_btn_name_right"
         android:layout_gravity="right"
         android:id="@+id/rl_menu_filter" />
 

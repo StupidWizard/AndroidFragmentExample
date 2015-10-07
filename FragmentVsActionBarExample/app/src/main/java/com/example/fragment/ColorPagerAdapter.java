@@ -46,8 +46,6 @@ public class ColorPagerAdapter extends FragmentPagerAdapter {
      */
     @Override
     public Fragment getItem(int position) {
-        // thực ra với Fragment nào nhẹ thì có thể load ở trong đây cũng được.
-        // ko nhất thiết phải khởi tạo ngay từ đầu làm gì.
         return listFragment.get(position);
     }
 

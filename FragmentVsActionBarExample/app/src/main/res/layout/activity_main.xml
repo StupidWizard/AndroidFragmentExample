@@ -22,35 +22,35 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Red"/>
+            android:text="@string/btn_name_red"/>
 
         <Button
             android:id="@+id/main_act_btn_yellow"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Vàng"/>
+            android:text="@string/btn_name_yellow"/>
 
         <Button
             android:id="@+id/main_act_btn_green"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Lục"/>
+            android:text="@string/btn_name_green"/>
 
         <Button
             android:id="@+id/main_act_btn_blue"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Lam"/>
+            android:text="@string/btn_name_blue"/>
 
         <Button
             android:id="@+id/main_act_btn_yellow2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="Vàng"/>
+            android:text="@string/btn_name_yellow"/>
     </LinearLayout>
 
 </LinearLayout>

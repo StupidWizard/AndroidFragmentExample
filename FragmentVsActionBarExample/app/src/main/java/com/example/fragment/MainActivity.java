@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
-// TODO: Note Fragment from support.v4 !!!
+// TODO: Note!! Fragment from support.v4 !!!
 public class MainActivity extends FragmentActivity implements View.OnClickListener{
 
     private FragmentManager fragmentManager;

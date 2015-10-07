@@ -3,4 +3,12 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="btn_name_red">Red</string>
+    <string name="btn_name_yellow">Yellow</string>
+    <string name="btn_name_green">Green</string>
+    <string name="btn_name_blue">Blue</string>
+
+    <string name="act_bar_btn_name_left">Left</string>
+    <string name="act_bar_btn_name_right">Right</string>
 </resources>
